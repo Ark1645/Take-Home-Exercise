@@ -1,0 +1,65 @@
+[
+    {
+        "priority": 1,
+        "type": "Wasted Spend - Out of Stock",
+        "sku": "NT-TABLET-P6",
+        "channel": "Amazon",
+        "details": "Product is Out of Stock (OOS) but had recent ad spend of $4,500.00, leading to wasted clicks and revenue loss."
+    },
+    {
+        "priority": 1,
+        "type": "Lost Buy Box",
+        "sku": "NT-EARBUD-X1-BLK",
+        "channel": "Amazon",
+        "details": "Losing the Buy Box to 'TechDeals Prime'. This directly diverts sales to a third-party seller."
+    },
+    {
+        "priority": 1,
+        "type": "Lost Buy Box",
+        "sku": "NT-SPEAKER-Z2",
+        "channel": "Amazon",
+        "details": "Losing the Buy Box to 'FastShip Electronics'. This directly diverts sales to a third-party seller."
+    },
+    {
+        "priority": 2,
+        "type": "Low Stock Risk",
+        "sku": "NT-SPEAKER-Z2",
+        "channel": "Amazon",
+        "details": "Inventory is critically low with an estimated 12 units. High risk of going OOS, impacting sales velocity and ad campaign performance."
+    },
+    {
+        "priority": 2,
+        "type": "MAP Violation",
+        "sku": "NT-CHARGER-Q3",
+        "channel": "Amazon",
+        "details": "Product is sold at $29.99, which is below the MAP of $31.99. This erodes brand value and partner trust."
+    },
+    {
+        "priority": 2,
+        "type": "Poor Reviews",
+        "sku": "NT-CHARGER-Q3",
+        "channel": "Amazon",
+        "details": "Average rating is 3.8/5 based on 89 reviews. This can deter potential buyers and suppress CVR."
+    },
+    {
+        "priority": 2,
+        "type": "Poor Reviews",
+        "sku": "NT-WATCH-S5",
+        "channel": "Amazon",
+        "details": "Average rating is 3.9/5 based on 156 reviews. This can deter potential buyers and suppress CVR."
+    },
+    {
+        "priority": 3,
+        "type": "Content Opportunity",
+        "sku": "NT-EARBUD-X1",
+        "channel": "Amazon",
+        "details": "Listing has content issues: missing_enhanced_content, incomplete_bullets. Improving content can increase conversion rate."
+    },
+    {
+        "priority": 3,
+        "type": "Content Opportunity",
+        "sku": "NT-TABLET-P6",
+        "channel": "Amazon",
+        "details": "Listing has content issues: no_a_plus_content, generic_images. Improving content can increase conversion rate."
+    }
+]
